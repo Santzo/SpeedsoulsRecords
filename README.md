@@ -1,5 +1,5 @@
-# SpeedsoulsR ecords
-# **Infinirunner**
+# Speedsouls Records
+# **Speedsouls Records**
 **[Speedsouls Records on Google Play](https://play.google.com/store/apps/details?id=com.SanteriHakoniemi.SpeedSoulsRecords)**
 
 This app uses http://www.speedrun.com JSON-database to retrieve information related to Souls games (Dark Souls, Bloodborne etc.)
