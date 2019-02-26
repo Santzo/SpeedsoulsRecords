@@ -14,11 +14,11 @@ public class HeaderImage : MonoBehaviour {
     public static bool showBanner;
 
     public bool showingBanner;
-    // Use this for initialization
+
 
     void Start()
     {
-        Advertisement.Initialize(gameID, testMode);
+        //Advertisement.Initialize(gameID, testMode);
     }
 
     // Update is called once per frame
@@ -31,12 +31,12 @@ public class HeaderImage : MonoBehaviour {
     {
 
         showingBanner = true;
-        if (Advertisement.Banner.isLoaded) Advertisement.Banner.Hide(true);
+        //if (Advertisement.Banner.isLoaded) Advertisement.Banner.Hide(true);
 
-        while(!Advertisement.IsReady("banner")) {
+        /*while(!Advertisement.IsReady("banner")) {
             yield return null;
-        }
-        Advertisement.Banner.Show(bannerPlacement);
+        }*/
+        //Advertisement.Banner.Show(bannerPlacement);
         showBanner = false;
         showingBanner = false;
         yield return null;

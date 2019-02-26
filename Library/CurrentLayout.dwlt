@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
+    x: 6
+    y: 51
     width: 1920
     height: 997
   m_ShowMode: 4
@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 813, y: 274}
-  m_MaxSize: {x: 22008, y: 10024}
+  m_MinSize: {x: 811, y: 274}
+  m_MaxSize: {x: 22006, y: 10024}
   vertical: 0
-  controlID: 88
+  controlID: 92
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -217,8 +217,8 @@ MonoBehaviour:
     y: 0
     width: 404
     height: 947
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -417,9 +417,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 73
+    y: 22
     width: 1024
-    height: 927
+    height: 923
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 3ee53c2f70044684b81942357665ab5f
   m_SceneLighting: 1
@@ -496,31 +496,31 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1026
-    y: 73
+    x: 1028
+    y: 22
     width: 202
-    height: 927
+    height: 923
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: cc260000
-      m_LastClickedID: 0
-      m_ExpandedIDs: d4fbffff
+      m_SelectedIDs: 5a280000
+      m_LastClickedID: 10330
+      m_ExpandedIDs: befbffffea270000f8270000d0280000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Viewport
+        m_OriginalName: Viewport
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 10232
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 7}
       m_SearchString: 
@@ -551,10 +551,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1232
-    y: 73
+    x: 1234
+    y: 22
     width: 280
-    height: 927
+    height: 923
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -568,7 +568,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/TextMesh Pro
+    - Assets/Scripts
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -580,7 +580,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 342b0000
     m_LastClickedID: 11060
-    m_ExpandedIDs: 000000007e2600000627000026270000ac270000b6270000c8270000ca2700001c280000362800006628000036290000002b0000022b0000042b0000062b0000082b00000a2b00000c2b00000e2b0000102b0000122b0000142b0000162b0000182b00001a2b0000
+    m_ExpandedIDs: 00000000b0250000ec250000f4250000142600002c2600008e260000ee26000012270000522900005429000056290000582900005a2900005c2900005e29000060290000622900006429000066290000682900006a2900006c2900006e29000070290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -608,21 +608,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000007e260000cc260000d6260000062700002627000034270000b6270000c8270000ca270000122800003628000066280000002b0000022b0000042b0000062b0000082b00000a2b00000c2b00000e2b0000102b0000122b0000142b0000162b0000182b00001a2b0000
+    m_ExpandedIDs: ffffffff00000000b0250000ec250000f4250000142600002c2600008e260000ee26000012270000522900005429000056290000582900005a2900005c2900005e29000060290000622900006429000066290000682900006a2900006c2900006e29000070290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: iOS
-      m_OriginalName: iOS
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10036
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 4
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -684,10 +684,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1516
-    y: 73
+    x: 1518
+    y: 22
     width: 402
-    height: 927
+    height: 923
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
