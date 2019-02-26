@@ -1,4 +1,3 @@
-# Speedsouls Records
 # **Speedsouls Records**
 **[Speedsouls Records on Google Play](https://play.google.com/store/apps/details?id=com.SanteriHakoniemi.SpeedSoulsRecords)**
 
